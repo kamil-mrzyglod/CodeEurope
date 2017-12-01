@@ -1,0 +1,39 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "sites_codeuerope_euw_functionApp_name": {
+      "value": null
+    },
+    "storageAccounts_codeeuropeeuwstorage_name": {
+      "value": null
+    },
+    "serverfarms_codeuerope_euw_functionAppPlan_name": {
+      "value": null
+    },
+    "config_web_name": {
+      "value": null
+    },
+    "storageAccounts_abe7c595da06b457c97771a5_name": {
+      "value": null
+    },
+    "storageAccounts_codeueropeeuwstorageblob_name": {
+      "value": null
+    },
+    "namespaces_codeeurope_euw_eventhub_namespace_name": {
+      "value": null
+    },
+    "eventhubs_codeeurope_euw_eventhub_name": {
+      "value": null
+    },
+    "AuthorizationRules_RootManageSharedAccessKey_name": {
+      "value": null
+    },
+    "hostNameBindings_codeuerope_euw_functionapp.azurewebsites.net_name": {
+      "value": null
+    },
+    "consumergroups_$Default_name": {
+      "value": null
+    }
+  }
+}
