@@ -1,0 +1,3 @@
+C:\MINE\CodeEurope-Workshop\CodeEurope.ResourceGroup\bin\Debug\azuredeploy.json
+C:\MINE\CodeEurope-Workshop\CodeEurope.ResourceGroup\bin\Debug\azuredeploy.parameters.json
+C:\MINE\CodeEurope-Workshop\CodeEurope.ResourceGroup\obj\Debug\CodeEurope.ResourceGroup.deployproj.CoreCompileInputs.cache
