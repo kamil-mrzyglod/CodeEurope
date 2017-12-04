@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeEurope.Functions", "Cod
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeEurope.Publisher", "CodeEurope.Publisher\CodeEurope.Publisher.csproj", "{4933C9C9-CFD1-4B26-A362-6B054D97DE0D}"
 EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "CodeEurope.ResourceGroup", "CodeEurope.ResourceGroup\CodeEurope.ResourceGroup.deployproj", "{82CFEEE7-B71C-4ABE-B8E2-8E146064D7D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4933C9C9-CFD1-4B26-A362-6B054D97DE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4933C9C9-CFD1-4B26-A362-6B054D97DE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4933C9C9-CFD1-4B26-A362-6B054D97DE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82CFEEE7-B71C-4ABE-B8E2-8E146064D7D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CFEEE7-B71C-4ABE-B8E2-8E146064D7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82CFEEE7-B71C-4ABE-B8E2-8E146064D7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CFEEE7-B71C-4ABE-B8E2-8E146064D7D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
