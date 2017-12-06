@@ -4,3 +4,5 @@ CodeEurope.Publisher/obj/
 packages/
 CodeEurope.Publisher/bin/
 CodeEurope.Functions/Properties/PublishProfiles/
+solution/CodeEurope.Publisher/bin/
+solution/CodeEurope.Publisher/obj/
