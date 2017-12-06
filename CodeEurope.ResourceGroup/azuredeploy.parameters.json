@@ -6,7 +6,7 @@
       "value": "codeuerope-euw-functionApp-kamz"
     },
     "storageAccounts_codeeuropeeuwstorage_name": {
-      "value": "codeueropeeuwkamz"
+      "value": "codeueropeeeuwehcapture"
     },
     "serverfarms_codeuerope_euw_functionAppPlan_name": {
       "value": "codeuerope-euw-functionAppPlan-kamz"
@@ -15,10 +15,10 @@
       "value": "codeuerope-euw-functionApp-config-kamz"
     },
     "storageAccounts_abe7c595da06b457c97771a5_name": {
-      "value": "codeueropeeuwkamzz"
+      "value": "codeueropeeuwfuncapp"
     },
     "storageAccounts_codeueropeeuwstorageblob_name": {
-      "value": "codeueropeeuwblobkamz"
+      "value": "codeueropeeuwblob"
     },
     "namespaces_codeeurope_euw_eventhub_namespace_name": {
       "value": "codeuerope-euw-eventhub-namespace-kamz"
